@@ -15,7 +15,7 @@ As a **role** I can **capability** so that **received benefits**
 - Acceptance Criteria3
 
 # User Tasks
-[] User Task1
-[] User Task2
-[] User Task3
-[] User Task4
+- [ ] User Task1
+- [ ] User Task2
+- [ ] User Task3
+- [ ] User Task4
